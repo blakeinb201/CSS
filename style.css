@@ -24,6 +24,13 @@ header {
 	margin-bottom: 15px;
 }
 
+footer {
+
+	position: absolute;
+	bottom: 0;
+	margin: 0 0 15px 15px;
+}
+
 .category-list {
 	margin-right: -36px;
 	list-style: none;
@@ -115,18 +122,6 @@ header {
 .category-list li a:hover {
 	color: #ae8e1b;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 .category-img img {
 	width: 202px;
